@@ -1,0 +1,4 @@
+name: ExplodirPorco
+version: '${project.version}'
+main: plteste.core.ExplodirPorco
+api-version: 1.8
